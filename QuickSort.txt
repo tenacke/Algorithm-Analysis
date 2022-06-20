@@ -1,0 +1,19 @@
+CountTest: 0 Mean: 0.0 StdDev: 0.0
+CountTest: 1 Mean: 47.0 StdDev: 4.2426405
+CountTest: 2 Mean: 132.5 StdDev: 21.832315
+CountTest: 3 Mean: 241.4 StdDev: 30.72198
+CountTest: 4 Mean: 332.5 StdDev: 31.190544
+CountTest: 5 Mean: 472.4 StdDev: 59.62583
+CountTest: 6 Mean: 1140.9 StdDev: 109.93494
+CountTest: 7 Mean: 7890.1 StdDev: 359.25073
+CountTest: 8 Mean: 17102.0 StdDev: 499.07834
+----------------------------------------
+TimeTest: 0 Mean: 1120.0 StdDev: 2630.5132
+TimeTest: 1 Mean: 2360.0 StdDev: 1067.8951
+TimeTest: 2 Mean: 5210.0 StdDev: 1743.8176
+TimeTest: 3 Mean: 8620.0 StdDev: 1019.6078
+TimeTest: 4 Mean: 22260.0 StdDev: 19320.828
+TimeTest: 5 Mean: 33600.0 StdDev: 90867.45
+TimeTest: 6 Mean: 10530.0 StdDev: 9072.712
+TimeTest: 7 Mean: 81720.0 StdDev: 106590.84
+TimeTest: 8 Mean: 159900.0 StdDev: 153533.89
